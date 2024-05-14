@@ -169,7 +169,7 @@ A record with the label being the symbol `person` followed by three fields with 
 would be serialized as:
 
 ```syrup
-<6:person5:Alice30+t>
+<6'person5"Alice30+t>
 ```
 
 ### Sets
